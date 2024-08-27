@@ -36,21 +36,12 @@ Make sure the extracted data files are present in the root directory alongside a
 By following these instructions, you can deploy the application with the reduced similarity.pkl file while having access to the original data files when needed.
 
 ---
-
-## Video Demonstration:- ▶
-
-[![Demo for Medicine Recommendation System](https://ytcards.demolab.com/?id=0bE4Na5Tk8Q&title=Demo+for+Medicine+Recommendation+System&lang=en&timestamp=1653795158&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=393 "Demo for Medicine Recommendation System")](https://www.youtube.com/watch?v=0bE4Na5Tk8Q)
-[Click Here](https://youtu.be/0bE4Na5Tk8Q "YouTube") for Proper Demonstration of Application.
-
----
 ## Kaggle Dataset 📊
 [Click Here](https://www.kaggle.com/code/mpwolke/medicine-recommendation/data "Kaggle Site")  to Access Dataset.
 
 ---
 
 ## Contact 📝
-Anurag Biswal - 
-* [anurag.biswal0702@gmail.com](mailto:anurag.biswal0702@gmail.com "anurag.biswal0702@gmail.com")
-* [LinkedIn](https://www.linkedin.com/in/anurag-biswal72/ "LinkedIn")
-* [Portfolio](https://anurag-b72.github.io/MyPortfolio/ "Website")
-* [Twitter](https://twitter.com/AnuragBiswal72 "Twitter")
+Prajwal Marapur - 
+* [prajwalmarapur1@gmail.com](mailto:prajwalmarapur1@gmail.com "prajwalmarapur1@gmail.com")
+* [LinkedIn](https://www.linkedin.com/in/prajwal-m-615984280/) "LinkedIn"
