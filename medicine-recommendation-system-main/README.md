@@ -44,4 +44,4 @@ By following these instructions, you can deploy the application with the reduced
 ## Contact 📝
 Prajwal Marapur - 
 * [prajwalmarapur1@gmail.com](mailto:prajwalmarapur1@gmail.com "prajwalmarapur1@gmail.com")
-* [LinkedIn](https://www.linkedin.com/in/prajwal-m-615984280/) "LinkedIn"
+* [LinkedIn](https://www.linkedin.com/in/prajwal-m-615984280/) 
